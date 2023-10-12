@@ -12,5 +12,12 @@ Design Vaccine Application with difference persona
 
 | |                            |
 | ----------------------------------- | ----------------------------------- |
-| ![baby boomer](https://cdn-icons-png.flaticon.com/512/5798/5798277.png) | ![persona1 prototype](https://github.com/Sasikarn-Pitpeng/UXUI-design-VACCINE-ME/blob/f70c1bacb6bff78caef7960450618a258ef05cdc/persona1%20prototype.png) |
+| ![baby boomer](https://cdn-icons-png.flaticon.com/512/5798/5798277.png) | ![persona2 prototype](https://github.com/Sasikarn-Pitpeng/UXUI-design-VACCINE-ME/blob/0f5c9c3f78dfab729acb2d158b6c1702e6de749e/persona2%20prototype.png) |
 
+
+### Persona3 - [Volunteer](https://www.figma.com/proto/t8sg8DEp34204zUKkyqsGz/persona3?node-id=230-4070&starting-point-node-id=230%3A4070&scaling=scale-down&mode=design&t=A8rwNp5cGF5htNxE-1)
+
+
+| |                            |
+| ----------------------------------- | ----------------------------------- |
+| ![Volunteer](https://cdn-icons-png.flaticon.com/512/7137/7137634.png) | ![persona3 prototype](https://github.com/Sasikarn-Pitpeng/UXUI-design-VACCINE-ME/blob/0f5c9c3f78dfab729acb2d158b6c1702e6de749e/persona3%20prototype.png) |
